@@ -18,5 +18,5 @@
 
 ## 📫 Kết nối với mình
 <p align="left">
-<a href="mailto:[EMAIL]" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
+<a href="mailto:[EMAIL]" target="blank"><img align="center" src="0976745507kaka@gmail.com" /></a>
 </p>

@@ -1,4 +1,4 @@
-# Chào bạn, mình là [Tên của bạn] 👋
+# Chào bạn, mình là GiaKhang 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Lập+trình+viên+Fullstack;Yêu+thích+Open+Source;Luôn+học+hỏi+mỗi+ngày" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 ## 🛠 Kỹ năng chuyên môn
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,docker,git,aws" />
+    <img src="https://skillicons.dev/icons?i=java,html" />
   </a>
 </p>
 

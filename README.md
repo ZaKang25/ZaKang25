@@ -16,14 +16,7 @@
   </a>
 </p>
 
-## 📊 Thống kê GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=tokyonight" />
-</p>
-
 ## 📫 Kết nối với mình
 <p align="left">
-<a href="https://linkedin.com/in/[LINKEDIN_USER]" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:[EMAIL]" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </p>

@@ -16,7 +16,10 @@
   </a>
 </p>
 
+
 ## 📫 Kết nối với mình
 <p align="left">
-<a href="mailto:[EMAIL]" target="blank"><img align="center" src="0976745507kaka@gmail.com" /></a>
+  <a href="https://www.instagram.com/zakang_oew/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
 </p>

@@ -1,24 +1,21 @@
-# Hi there, I'm Gia Khang 👋 
-*(Student @ Nguyen Tat Thanh University)*
+# Chào bạn, mình là GiaKhang 👋
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=TEN_CUA_BAN&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
+### 🚀 Về mình
+- 🎓 Sinh viên tại **Nguyễn Tất Thành University**.
+- 💻 Đang tập trung sâu vào: **Thiết kế & Phát triển Website**.
+- 🎯 Mục tiêu 2025: Nâng cao kỹ năng Backend với Java và hoàn thiện tư duy UI/UX.
 
-> Một lập trình viên nhiệt huyết, đam mê xây dựng những ứng dụng web tối ưu và đẹp mắt.
+### 🛠 Kỹ năng chuyên môn
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 🛠 My Tech Stack
-- **Ngôn ngữ:** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Web Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- **Công cụ:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### 📊 Thống kê GitHub
+![GiaKhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEN_GIA_KHANG_CUA_BAN&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEN_GIA_KHANG_CUA_BAN&layout=compact&theme=radical)
 
-### 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TEN_CUA_BAN&show_icons=true&theme=tokyonight" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEN_CUA_BAN&layout=compact&theme=tokyonight" />
-</p>
-
-### 🤝 Connect with me
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](LINK_FB)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](LINK_LINKEDIN)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:email@gmail.com)
+### 📬 Kết nối với mình
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](LINK_CUA_BAN)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](LINK_CUA_BAN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@gmail.com)

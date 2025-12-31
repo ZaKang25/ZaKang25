@@ -1,13 +1,13 @@
 # Chào bạn, mình là GiaKhang 👋
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=CHUYÊN+VIÊN+KĨ+THUẬT" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=700&color=2196F3&center=true&vCenter=true&width=435&lines=CHUYÊN+VIÊN+KĨ+THUẬT" />
+</p>
 
 ### 🚀 Về mình
 - 🎓 Sinh viên tại **Nguyễn Tất Thành University**.
 - 💻 Đang tập trung sâu vào: **Thiết kế & Phát triển Website**.
-- 🎯 Mục tiêu 2025: Nâng cao kỹ năng Backend với Java và hoàn thiện tư duy UI/UX.
+- 🎯 Mục tiêu 2025: Nâng cao kỹ năng Backend với luôn học hỏi và trau dồi kiến thức mới.
 
 ### 🛠 Kỹ năng chuyên môn
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)

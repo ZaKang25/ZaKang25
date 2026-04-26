@@ -10,14 +10,15 @@
 - 🎯 Mục tiêu 2025: Nâng cao kỹ năng Backend với luôn học hỏi và trau dồi kiến thức mới.
 
 ### ⚙️ Kỹ năng chuyên môn
-<div align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:40px;">
+<div style="display: flex; gap: 40px;" align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   </a>
-  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer" style="display:inline-block;">
+  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="50" height="50"/>
   </a>
 </div>
+
 
 
 ### 📬 Kết nối với mình

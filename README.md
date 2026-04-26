@@ -6,7 +6,7 @@
 
 ### 🚀 Về mình
 - 🎓 Sinh viên tại **Nguyễn Tất Thành University**.
-- 💻 Đang tập trung sâu vào: **Thiết kế & Phát triển Website**.
+- 💻 Đang tập trung sâu vào: **Kĩ Thuật Phần Mềm**.
 - 🎯 Mục tiêu 2025: Nâng cao kỹ năng Backend với luôn học hỏi và trau dồi kiến thức mới.
 
 ### 🛠 Kỹ năng chuyên môn

@@ -14,7 +14,9 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 40px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   </a>
-  
+</div>
+
+<div>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
   </a>
